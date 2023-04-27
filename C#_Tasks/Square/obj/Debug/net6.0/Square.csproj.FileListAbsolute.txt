@@ -1,0 +1,15 @@
+C:\Users\Geshata\Desktop\C#_Tasks\Square\bin\Debug\net6.0\Square.exe
+C:\Users\Geshata\Desktop\C#_Tasks\Square\bin\Debug\net6.0\Square.deps.json
+C:\Users\Geshata\Desktop\C#_Tasks\Square\bin\Debug\net6.0\Square.runtimeconfig.json
+C:\Users\Geshata\Desktop\C#_Tasks\Square\bin\Debug\net6.0\Square.dll
+C:\Users\Geshata\Desktop\C#_Tasks\Square\bin\Debug\net6.0\Square.pdb
+C:\Users\Geshata\Desktop\C#_Tasks\Square\obj\Debug\net6.0\Square.csproj.AssemblyReference.cache
+C:\Users\Geshata\Desktop\C#_Tasks\Square\obj\Debug\net6.0\Square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geshata\Desktop\C#_Tasks\Square\obj\Debug\net6.0\Square.AssemblyInfoInputs.cache
+C:\Users\Geshata\Desktop\C#_Tasks\Square\obj\Debug\net6.0\Square.AssemblyInfo.cs
+C:\Users\Geshata\Desktop\C#_Tasks\Square\obj\Debug\net6.0\Square.csproj.CoreCompileInputs.cache
+C:\Users\Geshata\Desktop\C#_Tasks\Square\obj\Debug\net6.0\Square.dll
+C:\Users\Geshata\Desktop\C#_Tasks\Square\obj\Debug\net6.0\refint\Square.dll
+C:\Users\Geshata\Desktop\C#_Tasks\Square\obj\Debug\net6.0\Square.pdb
+C:\Users\Geshata\Desktop\C#_Tasks\Square\obj\Debug\net6.0\Square.genruntimeconfig.cache
+C:\Users\Geshata\Desktop\C#_Tasks\Square\obj\Debug\net6.0\ref\Square.dll

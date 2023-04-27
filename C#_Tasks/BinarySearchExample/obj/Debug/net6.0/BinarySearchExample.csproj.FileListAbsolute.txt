@@ -1,0 +1,15 @@
+C:\Users\Geshata\Desktop\C#_Tasks\BinarySearchExample\bin\Debug\net6.0\BinarySearchExample.exe
+C:\Users\Geshata\Desktop\C#_Tasks\BinarySearchExample\bin\Debug\net6.0\BinarySearchExample.deps.json
+C:\Users\Geshata\Desktop\C#_Tasks\BinarySearchExample\bin\Debug\net6.0\BinarySearchExample.runtimeconfig.json
+C:\Users\Geshata\Desktop\C#_Tasks\BinarySearchExample\bin\Debug\net6.0\BinarySearchExample.dll
+C:\Users\Geshata\Desktop\C#_Tasks\BinarySearchExample\bin\Debug\net6.0\BinarySearchExample.pdb
+C:\Users\Geshata\Desktop\C#_Tasks\BinarySearchExample\obj\Debug\net6.0\BinarySearchExample.csproj.AssemblyReference.cache
+C:\Users\Geshata\Desktop\C#_Tasks\BinarySearchExample\obj\Debug\net6.0\BinarySearchExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geshata\Desktop\C#_Tasks\BinarySearchExample\obj\Debug\net6.0\BinarySearchExample.AssemblyInfoInputs.cache
+C:\Users\Geshata\Desktop\C#_Tasks\BinarySearchExample\obj\Debug\net6.0\BinarySearchExample.AssemblyInfo.cs
+C:\Users\Geshata\Desktop\C#_Tasks\BinarySearchExample\obj\Debug\net6.0\BinarySearchExample.csproj.CoreCompileInputs.cache
+C:\Users\Geshata\Desktop\C#_Tasks\BinarySearchExample\obj\Debug\net6.0\BinarySearchExample.dll
+C:\Users\Geshata\Desktop\C#_Tasks\BinarySearchExample\obj\Debug\net6.0\refint\BinarySearchExample.dll
+C:\Users\Geshata\Desktop\C#_Tasks\BinarySearchExample\obj\Debug\net6.0\BinarySearchExample.pdb
+C:\Users\Geshata\Desktop\C#_Tasks\BinarySearchExample\obj\Debug\net6.0\BinarySearchExample.genruntimeconfig.cache
+C:\Users\Geshata\Desktop\C#_Tasks\BinarySearchExample\obj\Debug\net6.0\ref\BinarySearchExample.dll

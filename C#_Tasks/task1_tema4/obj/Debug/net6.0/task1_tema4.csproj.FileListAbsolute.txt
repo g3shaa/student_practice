@@ -1,0 +1,15 @@
+C:\Users\Geshata\Desktop\C#_Tasks\task1_tema4\bin\Debug\net6.0\task1_tema4.exe
+C:\Users\Geshata\Desktop\C#_Tasks\task1_tema4\bin\Debug\net6.0\task1_tema4.deps.json
+C:\Users\Geshata\Desktop\C#_Tasks\task1_tema4\bin\Debug\net6.0\task1_tema4.runtimeconfig.json
+C:\Users\Geshata\Desktop\C#_Tasks\task1_tema4\bin\Debug\net6.0\task1_tema4.dll
+C:\Users\Geshata\Desktop\C#_Tasks\task1_tema4\bin\Debug\net6.0\task1_tema4.pdb
+C:\Users\Geshata\Desktop\C#_Tasks\task1_tema4\obj\Debug\net6.0\task1_tema4.csproj.AssemblyReference.cache
+C:\Users\Geshata\Desktop\C#_Tasks\task1_tema4\obj\Debug\net6.0\task1_tema4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geshata\Desktop\C#_Tasks\task1_tema4\obj\Debug\net6.0\task1_tema4.AssemblyInfoInputs.cache
+C:\Users\Geshata\Desktop\C#_Tasks\task1_tema4\obj\Debug\net6.0\task1_tema4.AssemblyInfo.cs
+C:\Users\Geshata\Desktop\C#_Tasks\task1_tema4\obj\Debug\net6.0\task1_tema4.csproj.CoreCompileInputs.cache
+C:\Users\Geshata\Desktop\C#_Tasks\task1_tema4\obj\Debug\net6.0\task1_tema4.dll
+C:\Users\Geshata\Desktop\C#_Tasks\task1_tema4\obj\Debug\net6.0\refint\task1_tema4.dll
+C:\Users\Geshata\Desktop\C#_Tasks\task1_tema4\obj\Debug\net6.0\task1_tema4.pdb
+C:\Users\Geshata\Desktop\C#_Tasks\task1_tema4\obj\Debug\net6.0\task1_tema4.genruntimeconfig.cache
+C:\Users\Geshata\Desktop\C#_Tasks\task1_tema4\obj\Debug\net6.0\ref\task1_tema4.dll

@@ -1,0 +1,15 @@
+C:\Users\Geshata\Desktop\C#_Tasks\bubbleSort\bin\Debug\net6.0\bubbleSort.exe
+C:\Users\Geshata\Desktop\C#_Tasks\bubbleSort\bin\Debug\net6.0\bubbleSort.deps.json
+C:\Users\Geshata\Desktop\C#_Tasks\bubbleSort\bin\Debug\net6.0\bubbleSort.runtimeconfig.json
+C:\Users\Geshata\Desktop\C#_Tasks\bubbleSort\bin\Debug\net6.0\bubbleSort.dll
+C:\Users\Geshata\Desktop\C#_Tasks\bubbleSort\bin\Debug\net6.0\bubbleSort.pdb
+C:\Users\Geshata\Desktop\C#_Tasks\bubbleSort\obj\Debug\net6.0\bubbleSort.csproj.AssemblyReference.cache
+C:\Users\Geshata\Desktop\C#_Tasks\bubbleSort\obj\Debug\net6.0\bubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geshata\Desktop\C#_Tasks\bubbleSort\obj\Debug\net6.0\bubbleSort.AssemblyInfoInputs.cache
+C:\Users\Geshata\Desktop\C#_Tasks\bubbleSort\obj\Debug\net6.0\bubbleSort.AssemblyInfo.cs
+C:\Users\Geshata\Desktop\C#_Tasks\bubbleSort\obj\Debug\net6.0\bubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Geshata\Desktop\C#_Tasks\bubbleSort\obj\Debug\net6.0\bubbleSort.dll
+C:\Users\Geshata\Desktop\C#_Tasks\bubbleSort\obj\Debug\net6.0\refint\bubbleSort.dll
+C:\Users\Geshata\Desktop\C#_Tasks\bubbleSort\obj\Debug\net6.0\bubbleSort.pdb
+C:\Users\Geshata\Desktop\C#_Tasks\bubbleSort\obj\Debug\net6.0\bubbleSort.genruntimeconfig.cache
+C:\Users\Geshata\Desktop\C#_Tasks\bubbleSort\obj\Debug\net6.0\ref\bubbleSort.dll
