@@ -1,0 +1,14 @@
+C:\Users\Geshata\Desktop\MovieLibrary\MovieLibrary\bin\Debug\MovieLibrary.exe.config
+C:\Users\Geshata\Desktop\MovieLibrary\MovieLibrary\bin\Debug\MovieLibrary.exe
+C:\Users\Geshata\Desktop\MovieLibrary\MovieLibrary\bin\Debug\MovieLibrary.pdb
+C:\Users\Geshata\Desktop\MovieLibrary\MovieLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Geshata\Desktop\MovieLibrary\MovieLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Geshata\Desktop\MovieLibrary\MovieLibrary\obj\Debug\MovieLibrary.csproj.AssemblyReference.cache
+C:\Users\Geshata\Desktop\MovieLibrary\MovieLibrary\obj\Debug\MovieLibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Geshata\Desktop\MovieLibrary\MovieLibrary\obj\Debug\MovieLibrary.Form1.resources
+C:\Users\Geshata\Desktop\MovieLibrary\MovieLibrary\obj\Debug\MovieLibrary.Properties.Resources.resources
+C:\Users\Geshata\Desktop\MovieLibrary\MovieLibrary\obj\Debug\MovieLibrary.csproj.GenerateResource.cache
+C:\Users\Geshata\Desktop\MovieLibrary\MovieLibrary\obj\Debug\MovieLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Geshata\Desktop\MovieLibrary\MovieLibrary\obj\Debug\MovieLibrary.csproj.CopyComplete
+C:\Users\Geshata\Desktop\MovieLibrary\MovieLibrary\obj\Debug\MovieLibrary.exe
+C:\Users\Geshata\Desktop\MovieLibrary\MovieLibrary\obj\Debug\MovieLibrary.pdb
