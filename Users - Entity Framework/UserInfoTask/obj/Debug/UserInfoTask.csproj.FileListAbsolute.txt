@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\UserInfoTask\UserInfoTask\bin\Debug\UserInfoTask.exe.config
+C:\Users\Admin\source\repos\UserInfoTask\UserInfoTask\bin\Debug\UserInfoTask.exe
+C:\Users\Admin\source\repos\UserInfoTask\UserInfoTask\bin\Debug\UserInfoTask.pdb
+C:\Users\Admin\source\repos\UserInfoTask\UserInfoTask\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\UserInfoTask\UserInfoTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\UserInfoTask\UserInfoTask\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\UserInfoTask\UserInfoTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\UserInfoTask\UserInfoTask\obj\Debug\UserInfoTask.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\UserInfoTask\UserInfoTask\obj\Debug\UserInfoTask.Form1.resources
+C:\Users\Admin\source\repos\UserInfoTask\UserInfoTask\obj\Debug\UserInfoTask.Properties.Resources.resources
+C:\Users\Admin\source\repos\UserInfoTask\UserInfoTask\obj\Debug\UserInfoTask.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\UserInfoTask\UserInfoTask\obj\Debug\UserInfoTask.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\UserInfoTask\UserInfoTask\obj\Debug\UserInfoTask.csproj.CopyComplete
+C:\Users\Admin\source\repos\UserInfoTask\UserInfoTask\obj\Debug\UserInfoTask.exe
+C:\Users\Admin\source\repos\UserInfoTask\UserInfoTask\obj\Debug\UserInfoTask.pdb
