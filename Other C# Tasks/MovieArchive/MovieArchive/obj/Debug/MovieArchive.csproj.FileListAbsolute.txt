@@ -1,0 +1,11 @@
+C:\Users\Geshata\Desktop\github\ASP.NET-MVC-Projects\MovieArchive\MovieArchive\bin\Debug\MovieArchive.exe.config
+C:\Users\Geshata\Desktop\github\ASP.NET-MVC-Projects\MovieArchive\MovieArchive\bin\Debug\MovieArchive.exe
+C:\Users\Geshata\Desktop\github\ASP.NET-MVC-Projects\MovieArchive\MovieArchive\bin\Debug\MovieArchive.pdb
+C:\Users\Geshata\Desktop\github\ASP.NET-MVC-Projects\MovieArchive\MovieArchive\obj\Debug\MovieArchive.csproj.AssemblyReference.cache
+C:\Users\Geshata\Desktop\github\ASP.NET-MVC-Projects\MovieArchive\MovieArchive\obj\Debug\MovieArchive.csproj.SuggestedBindingRedirects.cache
+C:\Users\Geshata\Desktop\github\ASP.NET-MVC-Projects\MovieArchive\MovieArchive\obj\Debug\MovieArchive.Properties.Resources.resources
+C:\Users\Geshata\Desktop\github\ASP.NET-MVC-Projects\MovieArchive\MovieArchive\obj\Debug\MovieArchive.csproj.GenerateResource.cache
+C:\Users\Geshata\Desktop\github\ASP.NET-MVC-Projects\MovieArchive\MovieArchive\obj\Debug\MovieArchive.csproj.CoreCompileInputs.cache
+C:\Users\Geshata\Desktop\github\ASP.NET-MVC-Projects\MovieArchive\MovieArchive\obj\Debug\MovieArchive.exe
+C:\Users\Geshata\Desktop\github\ASP.NET-MVC-Projects\MovieArchive\MovieArchive\obj\Debug\MovieArchive.pdb
+C:\Users\Geshata\Desktop\github\ASP.NET-MVC-Projects\MovieArchive\MovieArchive\obj\Debug\MovieArchive.MovieForm.resources
