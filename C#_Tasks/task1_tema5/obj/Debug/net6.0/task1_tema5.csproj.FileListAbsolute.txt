@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\student_practice\C#_Tasks\task1_tema5\bin\Debug\net6.0\task1_tema5.exe
+C:\Users\Admin\Desktop\student_practice\C#_Tasks\task1_tema5\bin\Debug\net6.0\task1_tema5.deps.json
+C:\Users\Admin\Desktop\student_practice\C#_Tasks\task1_tema5\bin\Debug\net6.0\task1_tema5.runtimeconfig.json
+C:\Users\Admin\Desktop\student_practice\C#_Tasks\task1_tema5\bin\Debug\net6.0\task1_tema5.dll
+C:\Users\Admin\Desktop\student_practice\C#_Tasks\task1_tema5\bin\Debug\net6.0\task1_tema5.pdb
+C:\Users\Admin\Desktop\student_practice\C#_Tasks\task1_tema5\obj\Debug\net6.0\task1_tema5.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\student_practice\C#_Tasks\task1_tema5\obj\Debug\net6.0\task1_tema5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\student_practice\C#_Tasks\task1_tema5\obj\Debug\net6.0\task1_tema5.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\student_practice\C#_Tasks\task1_tema5\obj\Debug\net6.0\task1_tema5.AssemblyInfo.cs
+C:\Users\Admin\Desktop\student_practice\C#_Tasks\task1_tema5\obj\Debug\net6.0\task1_tema5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\student_practice\C#_Tasks\task1_tema5\obj\Debug\net6.0\task1_tema5.dll
+C:\Users\Admin\Desktop\student_practice\C#_Tasks\task1_tema5\obj\Debug\net6.0\refint\task1_tema5.dll
+C:\Users\Admin\Desktop\student_practice\C#_Tasks\task1_tema5\obj\Debug\net6.0\task1_tema5.pdb
+C:\Users\Admin\Desktop\student_practice\C#_Tasks\task1_tema5\obj\Debug\net6.0\task1_tema5.genruntimeconfig.cache
+C:\Users\Admin\Desktop\student_practice\C#_Tasks\task1_tema5\obj\Debug\net6.0\ref\task1_tema5.dll
