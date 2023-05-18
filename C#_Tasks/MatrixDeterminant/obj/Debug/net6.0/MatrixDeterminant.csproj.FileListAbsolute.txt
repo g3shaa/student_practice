@@ -1,0 +1,15 @@
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\MatrixDeterminant\bin\Debug\net6.0\MatrixDeterminant.exe
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\MatrixDeterminant\bin\Debug\net6.0\MatrixDeterminant.deps.json
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\MatrixDeterminant\bin\Debug\net6.0\MatrixDeterminant.runtimeconfig.json
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\MatrixDeterminant\bin\Debug\net6.0\MatrixDeterminant.dll
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\MatrixDeterminant\bin\Debug\net6.0\MatrixDeterminant.pdb
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\MatrixDeterminant\obj\Debug\net6.0\MatrixDeterminant.csproj.AssemblyReference.cache
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\MatrixDeterminant\obj\Debug\net6.0\MatrixDeterminant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\MatrixDeterminant\obj\Debug\net6.0\MatrixDeterminant.AssemblyInfoInputs.cache
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\MatrixDeterminant\obj\Debug\net6.0\MatrixDeterminant.AssemblyInfo.cs
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\MatrixDeterminant\obj\Debug\net6.0\MatrixDeterminant.csproj.CoreCompileInputs.cache
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\MatrixDeterminant\obj\Debug\net6.0\MatrixDeterminant.dll
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\MatrixDeterminant\obj\Debug\net6.0\refint\MatrixDeterminant.dll
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\MatrixDeterminant\obj\Debug\net6.0\MatrixDeterminant.pdb
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\MatrixDeterminant\obj\Debug\net6.0\MatrixDeterminant.genruntimeconfig.cache
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\MatrixDeterminant\obj\Debug\net6.0\ref\MatrixDeterminant.dll

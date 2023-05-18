@@ -1,0 +1,15 @@
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\binaryToDecimal\bin\Debug\net6.0\binaryToDecimal.exe
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\binaryToDecimal\bin\Debug\net6.0\binaryToDecimal.deps.json
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\binaryToDecimal\bin\Debug\net6.0\binaryToDecimal.runtimeconfig.json
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\binaryToDecimal\bin\Debug\net6.0\binaryToDecimal.dll
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\binaryToDecimal\bin\Debug\net6.0\binaryToDecimal.pdb
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\binaryToDecimal\obj\Debug\net6.0\binaryToDecimal.csproj.AssemblyReference.cache
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\binaryToDecimal\obj\Debug\net6.0\binaryToDecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\binaryToDecimal\obj\Debug\net6.0\binaryToDecimal.AssemblyInfoInputs.cache
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\binaryToDecimal\obj\Debug\net6.0\binaryToDecimal.AssemblyInfo.cs
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\binaryToDecimal\obj\Debug\net6.0\binaryToDecimal.csproj.CoreCompileInputs.cache
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\binaryToDecimal\obj\Debug\net6.0\binaryToDecimal.dll
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\binaryToDecimal\obj\Debug\net6.0\refint\binaryToDecimal.dll
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\binaryToDecimal\obj\Debug\net6.0\binaryToDecimal.pdb
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\binaryToDecimal\obj\Debug\net6.0\binaryToDecimal.genruntimeconfig.cache
+C:\Users\Geshata\Desktop\github\student_practice\C#_Tasks\binaryToDecimal\obj\Debug\net6.0\ref\binaryToDecimal.dll
